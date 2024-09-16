@@ -36,6 +36,10 @@ With the rise of online education, especially post-pandemic, understanding how s
   -Internet Access
 
 ## EDA Findings:
+![image](https://github.com/user-attachments/assets/395e563c-efbe-4dd4-b99b-19a21b7116e4)
+
+![image](https://github.com/user-attachments/assets/9b1ca750-b55f-41c0-86c3-e54a56933e44)
+
 
 
 ## Key Findings
