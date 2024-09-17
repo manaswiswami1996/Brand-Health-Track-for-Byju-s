@@ -2,12 +2,12 @@
 This project is a dipstick study of the brand health of BYJU's, a leading online education platform in India. The study aims to understand the awareness and perception of school-going students towards online supplementary education, specifically focusing on BYJU's in comparison to its competitors.
 
 ## Table of Contents
-- [Motivation](##Motivation)
-- [Research Objectives](##research-objectives)
-- Research Methodology
-- EDA Findings
-- Key Findings
-- Conclusion
+- [Motivation](https://github.com/manaswiswami1996/Brand-Health-Track-for-Byju-s/edit/main/README.md#motivation)
+- [Research Objectives](https://github.com/manaswiswami1996/Brand-Health-Track-for-Byju-s/edit/main/README.md#research-objectives)
+- [Research Methodology](##research-methodology)
+- [EDA Findings](##eda-findings)
+- [Key Findings](##key-findings)
+- [Conclusion](##conclusion)
 
 ## Motivation
 With the rise of online education, especially post-pandemic, understanding how students perceive and engage with platforms like BYJU's is crucial. This project aims to provide insights into brand salience, key performance indicators, and the overall perception of BYJU's among students.
