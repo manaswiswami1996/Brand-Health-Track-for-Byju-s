@@ -17,6 +17,12 @@ With the rise of online education, especially post-pandemic, understanding how s
 2. To understand the shift in brand perception of BYJU's compared to other online education platforms.
 3. To evaluate the key triggers and barriers affecting the subscription to BYJU's online classes.
 
+### Tools used:
+ 1. Data Cleaning- Power Query(MS-Excel)
+ 2. Data Analysis- MS-Excel
+ 3. Data Visualisation - Tableau, MS-PowerPoint
+ 4. Data Collection - Google Questionnaire
+
 ## Research Methodology
 - **Sample Size:** 177 students aged 13-18
 - **Demographics:** Both male and female students from various socioeconomic backgrounds
@@ -81,4 +87,5 @@ With the rise of online education, especially post-pandemic, understanding how s
 
 ## Files in the Repository
 - `Brand_Health_Tracker_BYJUs.pdf`: The full presentation of the brand health tracker study.
-- `Demographic_Data.csv`: Data used in the analysis.
+- Questionnaire used for Data Colection
+- Raw data as CSV
