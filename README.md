@@ -21,7 +21,7 @@ With the rise of online education, especially post-pandemic, understanding how s
  1. Data Cleaning- Power Query(MS-Excel)
  2. Data Analysis- MS-Excel
  3. Data Visualisation - Tableau, MS-PowerPoint
- 4. Data Collection - Google Questionnaire
+ 4. Data Collection - Google Form
 
 ## Research Methodology
 - **Sample Size:** 177 students aged 13-18
